@@ -7,6 +7,7 @@ You can play the game at: http://jarrodhub.github.io/github-games/
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 To start a new game press the space bar and the game will start!!!!
+More instructions here
 
 ## Instructions:
 It's Tetris. If you don't know how to play Tetris you are Amish and have no business programming.
